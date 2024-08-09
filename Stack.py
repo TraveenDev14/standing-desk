@@ -32,7 +32,8 @@ pop()
 print(myList)
 pop()
 print(myList)
-
+push(32)
+print(myList)
 #while need != 0 :
  #   need = input("Enter Whether You Want to \"pop\" or \"push\" , Enter \'0\' to exit : ")
   #  if need == "push" :
