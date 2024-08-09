@@ -1,2 +1,0 @@
-# these files will be ignored
-me4.jpg
