@@ -20,23 +20,10 @@ def pop() :
         myList[topP] = None
         topP -= 1
         return popItem
+    
 
 need = None
 push(56)
-print(myList)
-push(34)
-print(myList)
-pop()
-print(myList)
-pop()
-print(myList)
-pop()
-print(myList)
-push(32)
-print(myList)
-push(32)
-print(myList)
-push(32)
 print(myList)
 push(32)
 print(myList)
